@@ -1,0 +1,27 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+body {
+  position: absolute;
+  z-index: 1;
+  height: 100%;
+  width: 100%;
+}
+
+header {
+  text-align: left;
+}
+
+h1 {
+  font-size: 55px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: yellow;
+}
+
+.content {
+  text-align: center;
+}
+
